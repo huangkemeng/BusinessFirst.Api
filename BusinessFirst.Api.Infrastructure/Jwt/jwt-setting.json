@@ -1,0 +1,9 @@
+{
+  "JwtSetting": {
+    "Issuer": "",
+    "SignKey": "",
+    "Audience": "",
+    "LongExpiresInMinutes": 43200,
+    "ShortExpiresInMinutes": 1440
+  }
+}
